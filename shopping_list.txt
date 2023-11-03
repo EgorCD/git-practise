@@ -1,2 +1,2 @@
-Milk\nEggs\nBread
+Milk\nEggs\n
 Chocolate
