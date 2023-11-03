@@ -1,0 +1,41 @@
+[33mcommit b462776121910a65c0ddd12178b010d2c5013bf1[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: chumakov_ed <egorcd2004@gmail.com>
+Date:   Fri Nov 3 23:49:35 2023 +0200
+
+    Add chocolate to shopping list
+
+[33mcommit 36b619ac52c37b02f0d04410253c202c5faa1a51[m
+Author: chumakov_ed <egorcd2004@gmail.com>
+Date:   Fri Nov 3 23:48:48 2023 +0200
+
+    Add school folder and school_file.txt
+
+[33mcommit d2b00e19d474af4292d59a7671d784c3ccf89f52[m
+Author: chumakov_ed <egorcd2004@gmail.com>
+Date:   Fri Nov 3 23:48:18 2023 +0200
+
+    Add shopping list
+
+[33mcommit c8f0602ef1fec6c20cfdfdc6fdeca855e0b385fd[m
+Author: chumakov_ed <egorcd2004@gmail.com>
+Date:   Fri Nov 3 23:47:57 2023 +0200
+
+    Add story file with initial content
+
+[33mcommit c1569e6d9bfdfefdac772fd52ac291fe43c48f5e[m[33m ([m[1;32mfeature[m[33m)[m
+Author: chumakov_ed <egorcd2004@gmail.com>
+Date:   Fri Nov 3 23:41:10 2023 +0200
+
+    changes
+
+[33mcommit 16fe2f905045e2fe72e9d82bae87fcf491f2c441[m
+Author: chumakov_ed <egorcd2004@gmail.com>
+Date:   Fri Nov 3 23:33:55 2023 +0200
+
+    Added content to git_practice.txt
+
+[33mcommit fc4d75a5d1eb16cfc49469e608f34a4f54a31f28[m
+Author: chumakov_ed <egorcd2004@gmail.com>
+Date:   Fri Nov 3 23:31:36 2023 +0200
+
+    Initial commit with git_practice.txt
